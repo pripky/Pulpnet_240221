@@ -3,7 +3,7 @@
 
 ### Pages Scraped:
 
-Here are the sources used to gather the data from:
+Here are the sources used to gather the data from-
 
 #### Institute Counselling Service (ICS)
 - [FAQ](https://www.iitk.ac.in/counsel/faq.php)
@@ -25,6 +25,21 @@ Here are the sources used to gather the data from:
 
 #### IIT Kanpur Official Academic Page
 - [Academics Overview](https://www.iitk.ac.in/futurestudents/acads/)
+  
+Sources scraped to test but **not included** in the final dataset due to lack of either relevant or extractable information-
+
+- [VOX IITK](https://voxiitk.com/)
+- [ICS Homepage](https://www.iitk.ac.in/counsel/)
+- [CSE Department](https://www.cse.iitk.ac.in/)
+- [EE Faculty](https://www.iitk.ac.in/ee/faculty)
+- [Academics at IIT Kanpur](https://www.iitk.ac.in/new/academics-at-iit-kanpur)
+- [DOAA Homepage](https://www.iitk.ac.in/doaa/)
+- [ICS FAQ](https://www.iitk.ac.in/counsel/faq.php)
+- [IITK Main Website](https://www.iitk.ac.in/)
+- [SPO – Companies FAQ](https://spo.iitk.ac.in/companies#faqs)
+- [SPO – Students FAQ](https://spo.iitk.ac.in/students#faqs)
+- [PG Manual PDF](https://iitk.ac.in/doaa/data/PG-Manual.pdf)
+- [UG Manual PDF](https://www.iitk.ac.in/doaa/data/UG-Manual.pdf)
 
 ### Methods employed:
 
@@ -57,4 +72,4 @@ Here are the sources used to gather the data from:
    ```bash
    streamlit run app.py
    ```
-If you're running the chatbot for the first time, some models will be downloaded automatically. Depending on your internet speed, this may take a few minutes. Please wait patiently while the models load.
+If you're running the chatbot for the first time, some models will be downloaded automatically. Depending on your internet speed, this may take a few minutes.
